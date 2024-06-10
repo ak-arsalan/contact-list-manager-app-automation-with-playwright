@@ -27,4 +27,8 @@ Documentation file can be found in Doc folder and Testcases file can be seen in 
 
 ## Test Results
 
+### Login Results:
+![loginresults](./loginresults.png)
+
+### Previous Results:
 ![results](./results.png)
